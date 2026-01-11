@@ -1,6 +1,6 @@
 {
     "modpackName": "Pack de alema2011",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "hashVerification": false,
     "files": [
         {
@@ -37,3 +37,4 @@
         },
         {
             "path":
+
