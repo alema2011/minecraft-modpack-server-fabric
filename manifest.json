@@ -1,0 +1,58 @@
+{
+    "modpackName": "Pack de alema2011",
+    "version": "1.0.0",
+    "files": [
+        {
+            "path": "mods/cloth-config-15.0.140-fabric.jar",
+            "url": "https://raw.githubusercontent.com/alema2011/minecraft-modpack-server-fabric/main/mods/cloth-config-15.0.140-fabric.jar"
+        },
+        {
+            "path": "mods/BadOptimizations-2.4.1-1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/alema2011/minecraft-modpack-server-fabric/main/mods/BadOptimizations-2.4.1-1.21.1.jar"
+        },
+        {
+            "path": "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+            "url": "https://raw.githubusercontent.com/alema2011/minecraft-modpack-server-fabric/main/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+        },
+        {
+            "path": "mods/enhancedblockentities-0.10.2+1.21.jar",
+            "url": "https://raw.githubusercontent.com/alema2011/minecraft-modpack-server-fabric/main/mods/enhancedblockentities-0.10.2+1.21.jar"
+        },
+        {
+            "path": "mods/krypton-0.2.8.jar",
+            "url": "https://raw.githubusercontent.com/alema2011/minecraft-modpack-server-fabric/main/mods/krypton-0.2.8.jar"
+        },
+        {
+            "path": "mods/moreculling-fabric-1.21.1-1.0.6.jar",
+            "url": "https://raw.githubusercontent.com/alema2011/minecraft-modpack-server-fabric/main/mods/moreculling-fabric-1.21.1-1.0.6.jar"
+        },
+        {
+            "path": "mods/dynamic-fps-3.11.3+minecraft-1.21.0-fabric.jar",
+            "url": "https://raw.githubusercontent.com/alema2011/minecraft-modpack-server-fabric/main/mods/dynamic-fps-3.11.3+minecraft-1.21.0-fabric.jar"
+        },
+        {
+            "path": "mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/alema2011/minecraft-modpack-server-fabric/main/mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar"
+        },
+        {
+            "path": "mods/ImmediatelyFast-Fabric-1.6.9+1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/alema2011/minecraft-modpack-server-fabric/main/mods/ImmediatelyFast-Fabric-1.6.9+1.21.1.jar"
+        },
+        {
+            "path": "mods/fabric-api-0.116.7+1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/alema2011/minecraft-modpack-server-fabric/main/mods/fabric-api-0.116.7+1.21.1.jar"
+        },
+        {
+            "path": "mods/lithium-fabric-0.15.1+mc1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/alema2011/minecraft-modpack-server-fabric/main/mods/lithium-fabric-0.15.1+mc1.21.1.jar"
+        },
+        {
+            "path": "mods/entityculling-fabric-1.9.5-mc1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/alema2011/minecraft-modpack-server-fabric/main/mods/entityculling-fabric-1.9.5-mc1.21.1.jar"
+        },
+        {
+            "path": "mods/sodium-fabric-0.6.13+mc1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/alema2011/minecraft-modpack-server-fabric/main/mods/sodium-fabric-0.6.13+mc1.21.1.jar"
+        }
+    ]
+}
