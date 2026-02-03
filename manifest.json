@@ -2,7 +2,7 @@
     "modpackName": "Pack de alema2011",
     "version": "1.0.2",
     "hashVerification": false,
-    "serverAddress": "TU_DIRECCION.playit.gg",
+    "serverAddress": "asland.playit.plus",
     "autoConnect": true,
     "files": [
         {
@@ -59,3 +59,4 @@
         }
     ]
 }
+
